@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @FOUR-BITS-28
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Android App Development and Video Games
+- 🌱 I’m currently learning Java, HTML/CSS/JS
+- ⚡ Fun fact: This is my personal account for @ilurbano
